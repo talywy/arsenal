@@ -4,8 +4,7 @@
 
 Some tools &amp; scripts to improve work efficiency.
 
-##Index
+## Index
 
-###check_jar_conflict
-Find the conflict class in jars, [link]](https://github.com/talywy/arsenal/check-jar-conflict "check jar conflict")
-
+### check_jar_conflict
+Find the conflict class in jars, [link](https://github.com/talywy/arsenal/tree/master/check-jar-conflict "check jar conflict")
